@@ -7,4 +7,4 @@
 - Contacts: 
       Telegram: @AlinaRM7
       Почту: alinarytsik.smart@yahoo.com / alina7rm@mail.ru
-- ⚡ Fun fact: my hobbies is literature, oriental dancing, equestrian sport, cooking and a little drawing.
+- ⚡ Fun fact: my hobbies is literature, oriental dancing, equestrian sport, cooking and a little drawing
