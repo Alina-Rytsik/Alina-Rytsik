@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alina-Rytsik (Rytik Alina Yuryevna)
 - 👀 I’m interested in Programming; Literary activity (translations, poetry, prose).  
-- 🌱 Frontend Developer | React | TS | Full-stack experience (Django).
+- 🌱 Frontend Developer | React | JavaScript | Full-stack experience (Django).
 - Soft Skills:
       "Experience working in distributed teams."
       "Conversational Italian (B1-B2), English (A2)."
