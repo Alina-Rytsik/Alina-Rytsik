@@ -3,7 +3,7 @@
 - 🌱 Frontend Developer | React | JavaScript | Full-stack experience (Django).
 - Soft Skills:
       "Experience working in distributed teams."
-      "Conversational Italian (B1-B2), English (A2)."
+      "Conversational Italian (B1-B2), English (A2)"
 - Contacts: 
       Telegram: @AlinaRM7
       Почту: alinarytsik.smart@yahoo.com / alina7rm@mail.ru
