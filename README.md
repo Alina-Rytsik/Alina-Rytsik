@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alina Rytsik
-- 👀 I’m interested in Programming; Literary activity (translations, poetry, prose).  
+- 👀 I’m interested in Programming; Literary activity (translations, poetry, prose)  
 - 🌱 Frontend Developer | React | JavaScript | Full-stack experience (Django).
 - Soft Skills:
       "Experience working in distributed teams."
